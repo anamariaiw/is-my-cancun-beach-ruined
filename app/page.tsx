@@ -50,7 +50,6 @@ export default function Home() {
   return (
     <main className="page">
       <section className="hero">
-        <div className="badge">Live AI beach check for Cancun & Riviera Maya</div>
         <h1>Is My Cancun Beach Ruined?</h1>
         <p className="subtitle">
           Enter your resort or beach area. The AI researches current web information and gives you a quick seaweed risk, beach verdict, and backup plan.
