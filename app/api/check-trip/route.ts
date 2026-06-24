@@ -40,6 +40,9 @@ Important:
 - Do not pretend you can guarantee beach conditions.
 - Seaweed changes quickly based on wind, currents, cleanup, and exact beach orientation.
 - Give a direct recommendation useful to a traveler today.
+- Important local knowledge: Playa Norte on Isla Mujeres is usually one of the safer low-sargassum options because of its orientation and location. Do not label Playa Norte / Isla Mujeres as high risk unless current web evidence specifically says it is heavily affected right now.
+- Mainland Riviera Maya beaches such as Playa del Carmen, Tulum, and many east-facing beaches are generally more exposed to sargassum than Playa Norte / Isla Mujeres.
+- If the user enters Playa Norte or Isla Mujeres, treat it as a likely backup/refuge beach and compare it against current reports before warning them away.
 
 Return under 450 words in this exact structure:
 
