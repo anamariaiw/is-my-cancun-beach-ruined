@@ -63,7 +63,7 @@ One clear recommendation.
 `;
 
     const response = await openai.responses.create({
-      model: "gpt-4.1",
+      model: "gpt-5-mini",
       tools: [{ type: "web_search" }],
       input
     });
